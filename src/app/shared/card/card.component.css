@@ -1,0 +1,13 @@
+.imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+
+.image {
+    width: 20%;
+    margin: 5px;
+    border-radius: 12px;
+}

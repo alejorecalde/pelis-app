@@ -1,0 +1,17 @@
+/* CABECERA */
+.header {
+    color: #ebeef5;
+    text-align: center;
+    background-color: #181717;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.boton {
+    background-color: #181717;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 15px;
+}
